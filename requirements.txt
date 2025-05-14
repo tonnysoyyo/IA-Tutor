@@ -1,9 +1,0 @@
-transformers>=4.39.0
-torch>=2.0.0
-sentencepiece  # Necesario para algunos tokenizadores
-accelerate     # Para facilitar el uso de modelos grandes
-scipy
-numpy
-Pillow         # Para cargar y procesar imágenes (útil para modelos multimodales)
-requests
-huggingface_hub
