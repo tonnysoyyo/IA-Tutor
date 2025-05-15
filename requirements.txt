@@ -1,0 +1,7 @@
+transformers
+accelerate
+torch
+ipykernel
+langchain
+langchain-huggingface
+huggingface_hub

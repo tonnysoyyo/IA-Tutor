@@ -1,0 +1,9 @@
+venv/
+env/
+virtualenv/
+*.json
+*.xlsx
+*.csv
+*.png
+*.jpg
+*.jpeg
