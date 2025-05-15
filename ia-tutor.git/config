@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	ignorecase = true
+[remote "origin"]
+	url = https://gitlab.com/david.garciag1/ia-tutor
+	fetch = +refs/*:refs/*
+	mirror = true
